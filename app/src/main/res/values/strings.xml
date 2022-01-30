@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="saved_users">Saved Users</string>
+    <string name="users">Users</string>
+    <string name="network_error">No Internet</string>
+    <string name="search">Search</string>
+    <string name="save_user">SAVE USER</string>
+    <string name="saved_user">USER SEVED</string>
+    <string name="remove_user">Remove User</string>
+</resources>
