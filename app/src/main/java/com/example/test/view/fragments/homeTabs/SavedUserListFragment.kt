@@ -9,6 +9,8 @@ class SavedUserListFragment : BaseUserListFragment(){
         super.onViewCreated(view, savedInstanceState)
     }
 
+
+    
     override fun isShowSavedUsers(): Boolean {
         return true
     }
